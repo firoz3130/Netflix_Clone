@@ -8,7 +8,8 @@ Used TheMovieDatabase(TMDB) ---API calls
     <td>First Screen Page</td>
   </tr>
   <tr>
-    <td><img src="C:\Users\Firos\OneDrive\Desktop\Screenshot_1660478333.png" width=270 height=480></td>
+    <td><img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+</td>
      
   </tr>
  </table>
