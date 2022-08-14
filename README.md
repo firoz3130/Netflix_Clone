@@ -13,5 +13,5 @@ Used TheMovieDatabase(TMDB) ---API calls
 
 Things to be added/improved
 _____________________
-Instant reels
-Reviews (from tmdb)
+Instant fast laugh page refreshment<br>
+Reviews/Ratings(from tmdb)
