@@ -15,5 +15,5 @@ Things to be added/improved
 _____________________
 Instant fast laugh page refreshment<br>
 Reviews/Ratings(from tmdb)
-Upgrade gradle version
+~~Upgrade gradle version~~
 New Arrivals
